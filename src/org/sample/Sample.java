@@ -6,6 +6,9 @@ public class Sample {
 		System.out.println("Course_Name");
 
 	}
+	private void networking() {
+		System.out.println("Course");
 
+	}
 
 }
