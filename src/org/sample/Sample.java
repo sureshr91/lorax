@@ -2,7 +2,7 @@ package org.sample;
 
 public class Sample {
 	
-	private void sql() {
+	private void networking() {
 		System.out.println("Course");
 
 	}
